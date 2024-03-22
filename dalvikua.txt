@@ -1,3 +1,24 @@
+Dalvik/2.1.0 (Linux; U; Android 5; realme50 Build/LEEK0R) [FBAN/EMA;FBAV/353.0.0.58.38;FBBV/244351762;FBRV/0;FBPN/com.facebook.lite;FBLC/sr_RS;FBMF/Realme;FBBD/Realme;FBDV/realme50;FBSV/5;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+
+Dalvik/2.1.0 (Linux; U; Android 10; realme50 Build/QQ2A.811427.010) [FBAN/EMA;FBAV/257.0.0.91.32;FBBV/846838570;FBRV/0;FBPN/com.facebook.lite;FBLC/hi_IN;FBMF/Realme;FBBD/Realme;FBDV/realme50;FBSV/10;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+
+Dalvik/2.1.0 (Linux; U; Android 13; realme50 Build/TP1A.696292.090) [FBAN/EMA;FBAV/317.0.0.38.35;FBBV/658191898;FBRV/0;FBPN/com.facebook.lite;FBLC/id_ID;FBMF/Realme;FBBD/Realme;FBDV/realme50;FBSV/13;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+
+Dalvik/2.1.0 (Linux; U; Android 5; realme50 Build/L7QYPT) [FBAN/EMA;FBAV/416.0.0.49.90;FBBV/647586601;FBRV/0;FBPN/com.facebook.lite;FBLC/es_LA;FBMF/Realme;FBBD/Realme;FBDV/realme50;FBSV/5;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+
+Dalvik/2.1.0 (Linux; U; Android 11; realme50 Build/RQ1D.579342.026) [FBAN/EMA;FBAV/242.0.0.81.75;FBBV/676619023;FBRV/0;FBPN/com.facebook.lite;FBLC/pl_PL;FBMF/Realme;FBBD/Realme;FBDV/realme50;FBSV/11;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+
+Dalvik/2.1.0 (Linux; U; Android 4; realme50 Build/JKL6DB) [FBAN/EMA;FBAV/117.0.0.53.76;FBBV/231063664;FBRV/0;FBPN/com.facebook.lite;FBLC/fr_FR;FBMF/Realme;FBBD/Realme;FBDV/realme50;FBSV/4;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+
+Dalvik/2.1.0 (Linux; U; Android 8; realme50 Build/OPM6.367754.022) [FBAN/EMA;FBAV/211.0.0.86.84;FBBV/212213226;FBRV/0;FBPN/com.facebook.lite;FBLC/fr_CA;FBMF/Realme;FBBD/Realme;FBDV/realme50;FBSV/8;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+
+Dalvik/2.1.0 (Linux; U; Android 5; realme50 Build/LM544T) [FBAN/EMA;FBAV/344.0.0.62.30;FBBV/860833097;FBRV/0;FBPN/com.facebook.lite;FBLC/fa_IR;FBMF/Realme;FBBD/Realme;FBDV/realme50;FBSV/5;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+
+Dalvik/2.1.0 (Linux; U; Android 12; realme50 Build/SQ3A.381623.087) [FBAN/EMA;FBAV/227.0.0.74.62;FBBV/771386159;FBRV/0;FBPN/com.facebook.lite;FBLC/th_TH;FBMF/Realme;FBBD/Realme;FBDV/realme50;FBSV/12;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+
+Dalvik/2.1.0 (Linux; U; Android 13; realme50 Build/TQ2A.639014.062) [FBAN/EMA;FBAV/396.0.0.76.12;FBBV/103713114;FBRV/0;FBPN/com.facebook.lite;FBLC/fr_FR;FBMF/Realme;FBBD/Realme;FBDV/realme50;FBSV/13;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+
+Coded
 Dalvik/2.1.0 (Linux; U; Android 7.1.2; TA-1033 Build/N2G47H)
 Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-G7102 Build/KOT49H)
 Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-G7105 Build/KOT49H)
