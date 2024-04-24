@@ -1,2 +1,0 @@
-import kaidofire.py
-
