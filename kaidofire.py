@@ -1,1 +1,2 @@
-import kaidofire.py
+import PyInit_kaidofire
+
